@@ -1,0 +1,1 @@
+// Full React code will be injected here in real app
